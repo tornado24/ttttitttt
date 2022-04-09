@@ -126,7 +126,7 @@
   "world.turn.your": "당신의 차례",
   "world.turn.remaining": "{0}턴 남음",
   "world.turn.last": "마지막 턴!",
-  "world.turn.replaying": "리플레이 중...",
+  "world.turn.replaying": "재현 중...",
   "world.unit.info.from": "{0} 도시 출신",
   "world.unit.veteran": "이 유닛은 배태랑입니다",
   "world.unit.veteran.progress": "베테랑이 되기까지 {0}/{1} ",
