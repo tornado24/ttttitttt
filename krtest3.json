@@ -208,7 +208,7 @@
   "building.produce.multiply2": "매 턴 근처의 {1}마다 {0}를 생산합니다",
   "building.produce.multiply3": "근처의 {1}마다 {0}를 생산합니다",
   "building.produce.reward.named": "produces {0} for {1}",
-  "building.produce.reward": "{0}을 생산합니다",
+  "building.produce.reward": "{0}를 생산합니다",
   "building.reward.tech": "{0}을 제공합니다",
   "building.reward.instant": "즉시 {0}을 제공합니다",
   "building.transform": "{0}을 {1}로 변환시킵니다",
