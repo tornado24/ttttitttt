@@ -1,0 +1,976 @@
+{
+  "language": "English",언어 : 한국어
+  "startmenu.new_game": "NEW GAME" : “새로운 게임”
+  "startmenu.multiplayer": "MULTIPLAYER" : “멀티플레이어”
+  "startmenu.resume_game": "RESUME GAME" : “게임 계속하기”
+  "startmenu.settings": "Settings" : “설정”
+  "startmenu.high_score": "High Score",최고 기록
+  "startmenu.throne_room": "Throne Room",명예의 전당
+  "startmenu.about": “About",이 게임에 대하여
+
+  "news.title": "POLYTOPIA NEWS",폴리토피아 뉴스
+  "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",어서오세요! 여기에서는 폴리토피아의 최신 정보들을 공유합니다! 기대해주세요!
+  "gamemodepicker.title": "GAME MODE",게임 모드
+
+  "tribepicker.title": "PICK YOUR TRIBE", 부족을 고르세요
+  "tribepicker.categories.humantribes": "Regular Tribes",일반 부족
+  "tribepicker.categories.specialtribes": "Special Tribes",특별 부족
+  "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",이 세상 존재가 아닌 듯 한 종족들...
+  "tribepicker.categories.random": "Let fate decide!",운명에 맡기세요!
+  "tribepicker.categories.random.button": "RANDOM TRIBE",랜덤 부족
+  "tribepicker.categories.random.selected.title": "Alakazam!", 아브라카타브라!
+  "tribepicker.categories.random.selected.text": "Random tribe selected", 무작위의 부족이 선택되었습니다
+  "tribepicker.restore": "restore purchases", 구매 복원
+  "tribepicker.restoring": "restoring...", 복원중...
+  "tribepicker.reset": "reset purchases",결제 리셋
+  "tribepicker.tba": "TBA",추후 공개
+  "tribepicker.underconstruction": "Under Construction",공사중
+  "tribepicker.underconstruction.description": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",이 직업은 아직 개발 중입니다. 과일을 기르고, 언어와 건축물을 형성하면서 말이죠. 아시다시피 이건 시간이 걸립니다. 인스타그램이나 트위터에서 @Midijiwan을 팔로우하고 새로운 부족을 가장 먼저 확인하세요!
+  "tribepicker.freetribe": "Free Tribe",무료 부족
+  "tribepicker.freetribe.description": "This tribe is available for free and cannot be purchased to enable online multiplayer.",이 부족은 무료로 선택할 수 있으며 온라인 멀티플레이어를 해금하기 위해 구매할 수 없습니다.
+  "tribepicker.taken": "Taken",선택됨
+  "tribepicker.enable": "ENABLE",활성화
+  "tribepicker.disable": "DISABLE",비활성화
+  "tribepicker.disabled": "disabled",비활성화됨
+  "tribepicker.disabled.description": "Tribe disabled, it cannot be used by you or the AI.",이 부족은 비활성화되었습니다. 당신이나 AI가 이 부족을 사용할 수 없습니다.
+  "tribepicker.pick": "PICK",선택
+  "tribepicker.yourname": "Your name",
+  "tribepicker.anonymous": "Anonymous",익명
+  "tribepicker.firstplayer": "First player must be a human",
+  "tribepicker.pickyour": "Pick your tribe",부족을 고르세요
+  "tribepicker.playertype": "Player type",
+  "tribepicker.news.readmore": "Read more...",더보기
+  "tribepicker.toprating": "Top rating {0}%",최고 점수: {0}%
+  "tribepicker.toprating.next": "{0}% needed for next star",다음 별 획득을 위해 {0}% 더 필요
+  "tribepicker.topscore": "Top score {0}",최고 점수: {0}
+  "tribepicker.topscore.next": "{0} for next star",다음 별 획득을 위해 {0}점 더 필요
+  "tribepicker.players": "{0} players",{0}인전
+  "tribepicker.mapsize": "Map Size: {0} tiles",맵 크기: {0}칸
+  "tribepicker.gamemode": "Game Mode: {0}",게임 모드:{0}
+
+  "gamesettings.title": "GAME SETUP",게임 설정
+  "gamesettings.yourname": "Your name",당신의 이름
+  "gamesettings.anonymous": "Anonymous",익명
+  "gamesettings.gamename": "Game name",게임 이름
+  "gamesettings.game": "Game {0}",게임 {0}
+  "gamesettings.players": "Players",플레이어
+  "gamesettings.opponents": "Opponents",적
+  "gamesettings.unlockmore": "Unlock more tribes to play with more opponents",더 많은 적과 플레이하기 위해 부족을 더 해금하새요
+  "gamesettings.notavailable": "Not Available",사용 불가
+  "gamesettings.info.multiplayer": "{0} players, {1} tiles map",{0}인전, 맵 크기 {1}칸
+  "gamesettings.info.local": "{0} opponents, {1} tiles map",적 {0}명, 맵 크기 {1}칸
+  "gamesettings.info.turnlimit30": ", 30 turn limit",30턴 제한
+  "gamesettings.info.difficulty.bonus": "Difficulty bonus: {0}%",난이도 보너스: {0}%
+  "gamesettings.difficulty": "Difficulty",난이도
+  "gamesettings.difficulty.easy": "Easy",쉬움
+  "gamesettings.difficulty.normal": "Normal",보통
+  "gamesettings.difficulty.hard": "Hard",어려움
+  "gamesettings.difficulty.crazy": "Crazy",매우 어려움
+  "gamesettings.startgame": "START GAME",게임 시작
+  "gamesettings.creatingworld": "CREATING WORLD",세계 생성 중
+  "gamesettings.mode": "Game Mode",게임 모드
+  "gamesettings.createslot": "Creating game slot...",게임 슬롯 생성중
+  "gamesettings.createslot.error": "Error creating game",게임 생성에 실패했습니다
+  "gamesettings.createslot.error.info": "Make sure you are online and try again.",인터넷 연결을 확인하고 다시 시도해주세요.
+  "gamesettings.size": "Map Size",맵 크기
+  "gamesettings.size.tiny": "Tiny",작음
+  "gamesettings.size.normal": "Normal",보통
+  "gamesettings.size.large": "Large",큼
+  "gamesettings.size.disabled": "Not Available",이용 불가
+  "gamesettings.network": "Network",네트워크
+  "gamesettings.network.online": "Online",온라인
+  "gamesettings.network.passplay": "Pass & Play",패스 앤 플레이
+  "gamesettings.online.disabled": "Online is locked",온라인 기능 잠김
+  "gamesettings.online.disabled.info": "There are some things you need to fix to play online multiplayer",온라인 멀티플레이어를 플레이하기 위해 해야 할 것
+  "gamesettings.online.info": "Play with your friends online using our multiplayer server.",우리의 멀티플레이어 서버를 통해 친구와 온라인으로 플레이하세요
+  "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",이 기기를 넘기면서 친구와 함께 플레이하세요
+  "gamesettings.size.tiles": "{0} tiles map.",맵 크기 {0}칸
+  "gamesettings.continue": "CONTINUE",계속하기
+
+  "gamemode.perfection.caps": "PERFECTION",퍼펙션
+  "gamemode.perfection": "Perfection",퍼펙션
+  "gamemode.perfection.description.button": "Show your skills on the global hiscore in the classic 30 turns game.",평범한 30턴 게임을 통해 세계 순위에 당신의 실력을 보여주세요.
+  "gamemode.perfection.description": "Get the highest possible score before the time runs out.",30턴이 지나기 전에 최대한 많은 점수를 획득하세요.
+  "gamemode.perfection.win": "We have reached the end of time. The memory of your tribe will echo in eternity!",시간의 끝에 도달하였습니다. 당신의 부족의 역사가 영원히 기억될 것입니다!
+  "gamemode.perfection.loss": "We have reached the end of time.",시간의 끝에 도달하였습니다.
+  "gamemode.domination.caps": "DOMINATION",점령전
+  "gamemode.domination": "Domination",점령전
+  "gamemode.domination.description.button": "Play until there is only one tribe left, with no time limit.",시간 제한 없이 한 부족만 남을 때까지 플레이하세요.
+  "gamemode.domination.description": "Wipe all the other tribes from the face of the square. There can be only one.",지도에서 다른 모든 부족을 없애버리세요. 오직 하나만이 승자가 됩니다.
+  "gamemode.domination.win": "You have defeated all the other tribes and unified the entire square!",다른 모든 부족을 무찌르고 온 영토를 통합했습니다!
+  "gamemode.domination.loss": "Your last city was lost, you have been defeated.",마지막 도시를 잃었습니다. 당신은 패배했습니다.
+  "gamemode.glory.caps": "GLORY",
+  "gamemode.glory": "Glory",
+  "gamemode.glory.description": "First to reach {0} points win",가장 먼저 {0}점을 달성하는 부족이 승리합니다.
+  "gamemode.glory.win": "The {0} points score was reached!",{0}점이 달성되었습니다!
+  "gamemode.might.caps": "MIGHT",
+  "gamemode.might": "Might",
+  "gamemode.might.description": "Capture all capitals to win",모든 수도를 점령하는 부족이 승리합니다.
+  "gamemode.might.win": "All capitals were captured",모든 수도가 점령되었습니다
+  "gamemode.death": "Your last city was lost, you have been defeated.",마지막 도시를 잃었습니다. 당신은 패배했습니다.
+
+  "world.intro.title": "Mighty Leader!",전능하신 지도자님!
+  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",당신은 {0}의 지도자로 선택되었습니다. 세계를 탐험하고 제국을 확장하되, 다른 부족을 조심하세요.
+  "world.intro.objective": "Objective: {0}",목표: {0}
+  "world.turn.end": "End Turn",턴 종료
+  "world.turn.end.question": "End your turn?",정말로 턴을 끝내시겠습니까?
+  "world.turn.end.confirm": "Confirm",확인
+  "world.turn.next": "Next Turn",다음 턴
+  "world.turn.finish": "Finish Game",게임 종료
+  "world.turn.nomoves": "No more moves available, end turn",더이상 할 수 있는 행동이 없습니다. 턴을 마치세요.
+  "world.turn.start": "START",시작
+  "world.turn.exit": "Exit",나가기
+  "world.turn.waiting": "Waiting for {0} to play...",{0}의 플레이를 기다리는 중...
+  "world.turn.waiting.unknown": "Waiting for an unknown tribe to play...",미지의 부족의 플레이를 기다리는 중...
+  "world.turn.ready": "Tap save when ready",준비되면 저장을 누르세요.
+  "world.turn.your": "Your turn",당신의 차례
+  "world.turn.remaining": "{0} turns left",{0}턴 남음
+  "world.turn.last": "Last turn!",마지막 턴!
+  "world.turn.replaying": "Replaying...",리플레이 중...
+  "world.unit.info.from": "From the city of {0}.",{0} 도시 출신
+  "world.unit.veteran": "This unit is a veteran.",이 유닛은 배태랑입니다.
+  "world.unit.veteran.progress": "{0}/{1} to become a veteran.",베테랑이 되기까지 {0}/{1}
+  "world.unit.ability": "Unit Ability",능력
+  "world.unit.health": "Health",체력
+  "world.unit.attack": "Attack",공격력
+  "world.unit.defence": "Defence",방어력
+  "world.unit.movement": "Movement",이동 범위
+  "world.unit.range": "Range",공격 범위
+  "world.unit.disembark.title": "Leave {0}",{0} 떠나기
+  "world.unit.disembark.message": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",상륙하면 이 {0}가 해체됩니다. 계속하시겠습니까?
+  "world.unit.evolve": "Your unit has grown to a {0}!",당신의 유닛이 {0}이 되었습니다!
+  "world.unit.evolve.title": "Unit Growth",유닛 성장
+  "world.unit.dissolved": "Your unit has dissolved", 당신의 유닛이 분해되었습니다.
+  "world.building.info": "The city of {0}",{0} 도시
+  "world.building.village": "Village",마을
+  "world.building.capture.ready": "Will be ready to capture next turn",다음 턴에 점령할 수 있습니다.
+  "world.building.capture.ready.title": "Entering {0}!",
+  "world.building.capture.warning": "Capturing will be completed next turn if you don't stop them.",당신이 그만두지만 않는다면 다음 턴에 점령될 것입니다.
+  "world.building.capture.warning.title": "{0} is under siege!",
+  "world.attract.sanctuary": "Your sanctuary has attracted a wild animal!",
+  "world.loading": "LOADING {0}%",{0}% 로딩중
+  "world.suggestion.title": "Here's a Tip!",도움말
+  "world.suggestion.message": "You should {0}",{0}
+  "world.suggestion.disable": "(These suggestions can be switched off in the menu)",(설정에서 이런 도움말을 비활성화할 수 있습니다)
+  "world.ranks": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th",1위,2위,3위,4위,5위,6위,7위,8위,9위,10위,11위,12위
+  "world.road.connected.title": "New trade route!",새로운 교역로 형성!
+  "world.road.connected.message": "{0} is now connected to your capital!",{0}이 수도에 연결되었습니다!
+  "world.tech.new.title": "New Tech!",새로운 기술 습득!
+  "world.tech.new.message": "You have discovered the secret of {0}",당신은 {0}의 비밀을 습득했습니다
+  "world.reward.levelup": "{0} level up!",{0} 레벨 업!
+  "world.reward.building": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",이제 {0}을 건설할 수 있습니다! 이 기념비는 가까운 도시에 부와 영광을 가져다줄 것입니다.
+  "world.reward.building.title": "{0} was completed", {0} 완료
+  "world.meet.tribe": "You meet {0}",{0}을 만났습니다.
+  "world.task.new": "You got a new Task!",새로운 과제가 생겼습니다!
+
+  "tribes.nature": "Nature",자연
+  "tribes.xin-xi": "Xin-xi",신-시
+  "tribes.xin-xi.info": "They start their journey in the dense mountains, surrounded by beautiful cherry blossom.\n\n{0} starts the game with the '{1}' tech.",신-시는 그들의 여정을 아름다운 벚꽃으로 둘러쌓인 빽빽한 산에서 시작합니다.\n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.imperius": "Imperius",임페리우스
+  "tribes.imperius.info": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",거대한 산들과 푸른 골짜기들. {0}의 기후는 과일이 자라기에 완벽합니다. \n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.bardur": "Bardur",바두르
+  "tribes.bardur.info": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",{0} 숲의 가혹하고 끝없는 겨울에서 살아남는 것은 쉬운 일이 아니지만 {0}는 여기에서 번성하는 것 같습니다.\n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.oumaji": "Oumaji",오마지
+  "tribes.oumaji.info": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",끝이 없어 보이는, 태양으로부터 저주받은 사막은 {0} 부족의 집입니다.\n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.kickoo": "Kickoo",키쿠
+  "tribes.kickoo.info": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",코코넛 야자수와 하얀 모래 해변. 과일과 생선이 풍부합니다. {0}의 집에 오신 것을 환영합니다. \n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.hoodrick": "Hoodrick",후드릭
+  "tribes.hoodrick.info": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",{0} 숲의 노란 단풍은 독특한 버섯을 먹는 숲의 주민들에게 완벽한 은신처입니다. \n\n{0}은 '{1}' 기술을 가지고 시작합니다.
+  "tribes.luxidoor": "Luxidoor",럭시도어
+  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside the walls of their beloved capital?  \n\n{0} starts the game with a huge walled capital.",{0}는 값 비싼 물건, 보석, 희귀한 향료와 독특한 장식을 좋아합니다. 폴리토피아에서 가장 비싼 부족인 이유 이기도 합니다! \n\n 최고의 보라색 비단을 걸친 시민들은 매우 편안한 삶을 살아갑니다. 그러나 사랑하는 그들의 수도의 벽 밖에서도 살아남을 수 있을까요?  \n\n{0}는 거대한 성벽을 가진 수도에서 시작합니다.
+  "tribes.vengir": "Vengir",벵기르
+  "tribes.vengir.info": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordman.",다른 부족들로 부터 미움을 받아 황무지로 쫓겨 났습니다. 그들이 이 불의를 참고 있을까요 아니면 반격을 위해 일어설까요?  \n\n{0}는 '{1}' 기술과 강력한 검사를 가지고 시작합니다.
+  "tribes.zebasi": "Zebasi",제바시
+  "tribes.zebasi.info": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",{0}는 따뜻한 사바나 위에서 번영하며 비옥한 토양을 경작하여 그들의 거대한 인구를 위한 식량을 제공합니다 . \n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.zebasi.news": "All profits from the Zebasi tribe is invested in solar energy projects.",제바시 부족으로부터 나오는 모든 수익은 태양 에너지 프로젝트에 투자됩니다.
+  "tribes.aimo": "Ai-Mo",아이-모
+  "tribes.aimo.info": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",고요하고 현명한 {0} 부족은 지도에서 가장 황량하고 바람이 많이 불며 높은 산봉우리에 살면서, 끝없는 저녁 어스름을 보며 명상함으로써 내면의 평화를 찾았습니다. \n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.aquarion": "Aquarion",아쿠아리온
+  "tribes.aquarion.info": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",오랫동안 잊혀진 문명이 심해에서 나타납니다! 극단적으로 고립된 결과, 다른 인간 부족들에게는 알려지지 않은 특별한 수생 능력이 생겼습니다.\n\n{0}은 약간 다른 기술 트리를 가지고 있으며 다른 부족이 훈련 할 수 없는 특별한 양서류와 거북 유닛들을 이용할 수 있습니다.
+  "tribes.quetzali": "Quetzali",퀘찰리
+  "tribes.quetzali.info": "The {0} tribe worship the bird gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",{0} 부족은 붉은 땅의 새들을 숭배하며 자연의 대칭성과 울창한 정글과의 조화 속에서 살아갑니다.  날지 못하는 거대한 새를 타고 다니는 것이 자주 보입니다. \n\n{0}는 '{1}' 기술을 가지고 시작합니다.
+  "tribes.elyrion": "∑∫ỹriȱŋ",∑∫ỹriȱŋ
+  "tribes.elyrion.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",신비한 {0} 부족은 그들의 숲을 화려한 마법과 화염브레스를 뿜는 사나운 용과 함께 지킵니다! \n\n 그들은 자연을 성스러운 영혼으로 간주하므로 동물을 사냥하거나 나무를 자를 수 없는 대신에 일반 동물들을 강력한 몬스터로 변신시킬 수 있으며 특별한 마법 기술을 가지고 시작합니다.
+  "tribes.yadakk": "Yădakk",야닥
+  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",{0}은 아름답고 거친 칼리 평원에서 등장한 유목민족입니다. 이제 그들은 그들의 제국을 인상적인 무역로로 연결하는 상인입니다. \n\n{0}는 '{1}' 테크를 가지고 시작합니다.
+  "tribes.polaris": "Polaris",폴라리스
+  "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",{0}는 멀리 떨어진 곳에 있는  얼어붙은 툰드라에 영겁의 시간 동안 갇혀 있었지만, 날씨와 상관없이 그들의 부자연스러운 얼음 지형을 확장할 수 있는 힘을 가진 미스테리한 가미 의 축복을 받았습니다. \n\n신비로운 {0}는 썰매와 마무의 힘을 이용하여 지도를 얼음으로 덮어 혹한의 낙원으로 바꾸기로 결심했습니다. \n\n{0}는 주변 지형을 얼리는 능력을 가진 무니를 가지고 게임을 시작합니다.
+
+  "building.capital.owner": "{0} is the {1} capital",{1} 부족의 수도입니다
+  "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",{1} 부족의 수도였으나 지금은 {2} 부족이 점령했습니다
+  "building.city.owner": "{0} is a city in the {1} empire",{1} 부족의 도시입니다
+  "building.village.owner": "This is a village that doesn't belong to any tribe",어느 부족도 점령하지 않은 마을입니다
+  "building.ability.attract": "attracts a wild animal to a nearby forest tile every 3 turns",3턴에 한 번 근처의 숲에 야생 동물을 데려옵니다
+  "building.produce": "produces {0} each turn",매 턴 {0}을 생산합니다
+  "building.produce.multiply.polaris": " ({0} for every {1} frozen tiles in the world)",전 세계의 얼어붙은 칸 {1}개마다 {0})
+  "building.produce.multiply2.polaris": "Produces {0} for every {1} frozen tiles in the world",매 턴 전 세계의 얼어붙은 칸 {1}개마다 {0}를 생산합니다
+  "building.produce.multiply": " ({0} for each nearby {1})",(근처의 {1}마다 {0})
+  "building.produce.multiply2": "produces {0} for each nearby {1} each turn",매 턴 근처의 {1}마다 {0}를 생산합니다
+  "building.produce.multiply3": "produces {0} for each nearby {1}",근처의 {1}마다 {0}을 생산합니다
+  "building.produce.reward.named": "produces {0} for {1}",
+  "building.produce.reward": "produces {0}",{0}을 생산합니다
+  "building.reward.tech": "gives you a {0}",{0}을 제공합니다
+  "building.reward.instant": "instantly gives you {0}",즉시 {0}을 제공합니다
+  "building.transform": "transforms a {0} into a {1}",{0}을 {1}로 변환시킵니다
+  "building.transform2": "transforms a {0} into a {1} with {2} ",{2}를 이용해 {0}를 {1}로 변환시킵니다
+  "building.resource": "adds a {0} at the selected tile",
+  "building.value": "is worth {0} points of score",{0}점의 가치를 지닙니다
+  "building.ability.embark": "Units that move here will turn into boats that can move on water.",이곳으로 움직이는 유닛은 물에서 움직일 수 있는 보트가 됩니다
+  "building.ability.route": "It creates trade routes through {0} to any other {1} within a 5 tiles radius.",{0}으로부터 5칸 이내의 모든 {1}까지 교역로를 형성합니다.
+  "building.ability.route.and": " and ",
+  "building.ability.road": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",도시를 수도와 연결하기 위하여 도로를 건설하세요. 연결된 도시는 인구 1명을 얻게 됩니다. 도로는 모든 유닛에게 이동 보너스를 제공합니다.
+  "building.ability.ruin": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",고대 문명의 유적. 가치 있는 것이 숨겨져있을 수도 있습니다! 조사하려면 이곳에 유닛을 둬주세요.
+  "building.ability.patina": "{0} grows over time, so try to build them as early as possible.",{0}은 시간이 지나며 성장하므로 최대한 일찍 건설하세요.
+  "building.ability.limited": "You can only build one {0} per city.",{0}은 도시 당 1개만 건설할 수 있습니다.
+  "building.ability.unique": "{0} can only be built once.", {0}은 한 번만 건설할 수 있습니다.
+  "building.restriction.near": "Must be built next to a {0}.",{0}의 주변에만 지을 수 있습니다.
+  "building.restriction.on": "Must be on a tile with {0}.",{0}이 있는 칸에만 지을 수 있습니다.
+  "building.names.city": "City",도시
+  "building.names.ruin": "Ruin",유적
+  "building.names.monument1": "Altar of Peace",평화의 제단
+  "building.names.monument2": "Tower of wisdom",지혜의 탑
+  "building.names.monument3": "Grand Bazaar",그랜드 바자
+  "building.names.monument4": "Emperors Tomb",황제의 무덤
+  "building.names.monument5": "Gate of Power",힘의 문
+  "building.names.monument6": "Park of Fortune",운의 정원
+  "building.names.monument7": "Eye of God",신의 눈
+  "building.names.temple": "Temple",사원
+  "building.names.burnforest": "Burn Forest",숲 태우기
+  "building.names.road": "Road",길
+  "building.names.customshouse": "Customs House",세관
+  "building.names.gather": "Harvest fruit",과일 수확
+  "building.names.farm": "Farm",농장
+  "building.names.windmill": "Windmill",풍차
+  "building.names.fishing": "Fishing",낚시
+  "building.names.whalehunting": "Whale Hunting",고래잡이
+  "building.names.watertemple": "Water Temple",물 사원
+  "building.names.port": "Port",항구
+  "building.names.hunting": "Hunting",사냥하기
+  "building.names.clearforest": "Clear forest",숲 베기
+  "building.names.lumberhut": "Lumber Hut",수목 오두막
+  "building.names.sawmill": "Sawmill",제재소
+  "building.names.growforest": "Grow Forest",숲 형성
+  "building.names.foresttemple": "Forest Temple",숲 사원
+  "building.names.mountaintemple": "Mountain Temple",산 사원
+  "building.names.mine": "Mine",광산
+  "building.names.forge": "Forge",대장간
+  "building.names.sanctuary": "Sanctuary",성소
+  "building.names.enchant": "Enchant Animal",동물 마법
+  "building.names.enchant_whale": "Enchant Whale",고래 마법
+  "building.names.ice_bank": "Ice Bank",얼음 저장소
+  "building.names.iceport": "Outpost",전초 기지
+  "building.names.icetemple": "Ice Temple",얼음 사원
+
+  "unit": "unit",유닛
+  "unit.info.attack": "Attack",공격력
+  "unit.info.defence": "Defence",방어력
+  "unit.info.movement": "Movement",이동 범위
+  "unit.info.health": "Health",체력
+  "unit.info.range": "Range",공격 범위
+  "unit.info.skills": "Skills",능력
+  "unit.names.giant": "Giant",거인
+  "unit.names.crab": "Crab",게
+  "unit.names.egg": "Dragon Egg",용의 알
+  "unit.names.wendy": "Gaami",가미
+  "unit.names.bunny": "Bunny",토끼
+  "unit.names.scout": "Scout", 정찰병
+  "unit.names.boat": "Boat",보트
+  "unit.names.warrior": "Warrior",전사
+  "unit.names.rider": "Rider",기마병
+  "unit.names.knight": "Knight",기사
+  "unit.names.defender": "Defender",방패병
+  "unit.names.ship": "Ship",배
+  "unit.names.battleship": "Battleship",전함
+  "unit.names.catapult": "Catapult",투석기
+  "unit.names.archer": "Archer",궁수
+  "unit.names.priest": "Mind Bender",정신조작사
+  "unit.names.swordman": "Swordsman",검사
+  "unit.names.amphibian": "Amphibian", 양서류병
+  "unit.names.tridention": "Tridention",삼지창병
+  "unit.names.dragon": "Baby Dragon",아기 용
+  "unit.names.dragon_large": "Fire Dragon",화염룡
+  "unit.names.polytaur": "Polytaur",수인병
+  "unit.names.seamonster": "Navalon",나발론
+  "unit.names.icemaker": "Mooni",무니
+  "unit.names.battlesled": "Battle Sled",전투 썰매
+  "unit.names.fortress": "Ice Fortress",얼음 요새
+  "unit.names.icearcher": "Ice Archer",얼음 궁수
+  "unit.ability": "ability",능력
+  "unit.abilities.dash": "DASH",대시
+  "unit.abilities.escape": "ESCAPE",탈출
+  "unit.abilities.scout": "SCOUT",
+  "unit.abilities.sneak": "SNEAK",잠입
+  "unit.abilities.hide": "HIDE",숨기
+  "unit.abilities.build": "BUILD",짓기
+  "unit.abilities.persist": "PERSIST",연속공격
+  "unit.abilities.convert": "CONVERT",전환
+  "unit.abilities.heal": "HEAL",치유
+  "unit.abilities.swim": "SWIM",수영
+  "unit.abilities.carry": "CARRY",수송
+  "unit.abilities.grow": "GROW",성장
+  "unit.abilities.fly": "FLY",비행
+  "unit.abilities.splash": "SPLASH",광역 대미지
+  "unit.abilities.decay": "DECAY",부패
+  "unit.abilities.navigate": "NAVIGATE",항해
+  "unit.abilities.freeze": "FREEZE",빙결
+  "unit.abilities.freezearea": "FREEZE AREA",지역 빙결
+  "unit.abilities.autofreeze": "AUTO FREEZE",자동 빙결
+  "unit.abilities.skate": "SKATE",스케이트
+  "unit.abilities.fortify": "FORTIFY",요새화
+
+  "player.abilities.destroy": "destroy",파괴
+  "player.abilities.disband": "disband",해산
+  "player.abilities.literacy": "literacy",문해력
+  "player.abilities.glide": "glide",글라이딩
+
+  "resource.names.fruit": "fruit",과일
+  "resource.names.crop": "crop",작물
+  "resource.names.fish": "fish",물고기
+  "resource.names.whale": "whale",고래
+  "resource.names.game": "wild animal",야생 동물
+  "resource.names.metal": "metal",광물
+
+  "terrain.unknown": "Unknown lands",미지의 땅
+  "terrain.water": "Water",물
+  "terrain.ocean": "Ocean",바다
+  "terrain.field": "Field",육지
+  "terrain.forest": "Forest",숲
+  "terrain.mountain": "Mountain",산
+  "terrain.ice": "Ice",얼음
+  "actionbox.building.level": "level {0}/{1}",{0}/{1} 레벨
+  "actionbox.tile.roads": "roads",도로
+  "actionbox.city": "The city of {0}",{0} 도시
+  "actionbox.city.level": "lvl {0}",{0}레벨
+  "actionbox.village": "Village",마을
+  "actionbox.unit.frozen": "Frozen {0}",얼어붙은 {0}
+  "actionbox.unit.kills": "{0}/{1} kills",{0}/{1} 킬
+  "actionbox.unit.veteran": "Veteran",베테랑
+  "actionbox.unit.new": "Train a new {0} {1}",새로운 {0} {1} 훈련시키기
+  "actionbox.unit.ability": "Unit Ability",유닛 능력
+  "actionbox.unit.train": "TRAIN",훈련
+  "actionbox.unit.upgrade": "UPGRADE",업그레이드
+  "actionbox.unit.toomany": "(too many)",
+  "actionbox.unit.toomany.info": "This city can't support any more units. Upgrade the city to get more space for units.",이 도시는 더이상 다른 유닛을 지원할 수 없습니다. 더 많은 유닛을 위해 도시를 업그레이드하세요.
+  "actionbox.building.doit": "DO IT",실행
+  "actionbox.building.requiredtech": "You need to research {0} to do this, tap the 'Tech Tree' button.",이것을 하기 위해 {0}을/를 연구해야 합니다. '기술' 버튼을 클릭하세요.
+  "actionbox.building.techtree": "TECH TREE",기술
+  "actionbox.insufficientfunds": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",이 행동을 하기에 별이 부족합니다. '다음 턴'을 눌러 별을 더 획득하세요.
+  "actionbox.confirm": "Confirm {0}",{0} 확인
+  "actionbox.confirm.info": "Are you sure you want to do this?",정말 이 행동을 하시겠습니까?
+  "actionbox.confirm.button": "YES",예
+
+  "tooltip.tile.road": "Build a road to connect this city to your capital.",도로를 건설하여 이 도시를 당신의 수도에 연결하세요.
+  "tooltip.tile.choose_unit": "Choose a unit to produce.",생산할 유닛을 고르세요.
+  "tooltip.tile.limit": "This city cannot support any more units.",이 도시는 더이상 다른 유닛을 지원할 수 없습니다.
+  "tooltip.tile.capture.enemy": "Your city is being captured by the enemy!",당신의 도시가 적에게 점령당하고 있습니다!
+  "tooltip.tile.capture": "This city is being captured.",이 도시는 점령당하고 있습니다.
+  "tooltip.tile.capture.tip": "Move a unit here to capture this city!",이곳에 유닛을 이동시켜 이 도시를 점령하세요!
+  "tooltip.tile.produces": "Produces {0} each turn.",매 턴 {0}를 생산합니다.
+  "tooltip.tile.level.polaris": "Freeze {0} more tiles to reach the next level",레벨을 올리기 위해 {0}칸을 더 얼리세요
+  "tooltip.tile.level.next": "Next level in {0} turns",{0}턴 후 레벨 업
+  "tooltip.tile.level.max": "Has reached maximum level",최고 레벨
+  "tooltip.tile.sailing": "Move a unit here to start sailing!",유닛을 이곳으로 움직여 항해를 시작하세요!
+  "tooltip.tile.monuments": "Monuments gives your empire extra score!",기념비는 추가적인 점수를 제공합니다!
+  "tooltip.tile.ruin": "Move a unit here and examine these ancient ruins.",유닛을 이곳으로 움직여 이 고대 유적을 탐사하세요.
+  "tooltip.tile.blocked": "This resource is blocked by an enemy unit",이 자원은 적 유닛에 막혀있습니다.
+  "tooltip.tile.extract.upgrade": "Extract this resource to upgrade your city",이 자원을 수확하여 도시를 업그레이드하세요
+  "tooltip.tile.extract.convert": "This resource can be transformed into a unit",이 자원은 유닛으로 변환될 수 있습니다
+  "tooltip.tile.extract.stars": "Extract this resource to earn stars instantly",이 자원을 수확하여 즉시 별을 얻으세요
+  "tooltip.tile.extract.research": "You need to research {0} to extract this resource",이 자원을 수확하려면 {0}을/를 연구해야 합니다
+  "tooltip.tile.outside": "This resource is outside of your empire",이 자원은 당신의 제국의 밖에 있습니다.
+  "tooltip.tile.research": "You need to research {0} to be able to move here",이곳으로 이동하려면 {0}을/를 연구해야 합니다
+  "tooltip.tile.explore": "Explore this area to see what it holds!",이 지역을 탐험하여 뭐가 있는지 확인하세요!
+  "tooltip.unit.city.capture": "Tap 'Capture' to add this city to your empire",'점령'을 눌러 이 도시를 당신의 제국의 일부로 만드세요
+  "tooltip.unit.city.capture.next": "This city will be ready to capture next turn",이 도시가 다음 턴에 점령될 것입니다
+  "tooltip.unit.city.capture.flying": "Flying units cannot capture cities",비행하는 유닛은 도시를 점령할 수 없습니다
+  "tooltip.unit.actions.none": "No actions left. Press 'Next Turn' to move this unit again.",더이상 행동할 수 없습니다. 이 유닛을 다시 움직이려면 '다음 턴'을 누르세요.
+  "tooltip.unit.actions.move": "Click a blue mark to move.",파란 표시를 눌러 움직이세요.
+  "tooltip.unit.actions.attack": "Click a red mark to attack!",빨간 표시를 눌러 공격하세요!
+  "tooltip.unit.enemy": "This is the enemy!",이것은 적입니다!
+  "tooltip.unit.enemy.territory": "This enemy is in your territory!",이 적이 당신의 영토에 있습니다!
+  "tooltip.unit.enemy.city": "This enemy is capturing your city!",이 적이 도시를 점령하고 있습니다!
+  "tooltip.unit.grow.now": "Will grow to {0} at the end of this turn!",이 턴이 끝나면 {0}이 될 것입니다.
+  "tooltip.unit.grow.later": "Will grow to {0} in {1} turns.",{1}턴 후 {0}이 됭 것입니다.
+  "tooltip.unit.decay.now": "This unit will dissolve at the end of this turn.",
+  "tooltip.unit.decay.later": "This unit will dissolve in {0} turns.",
+  "tooltip.ability.disband": "Remove any of your own units and get half of its cost in return.",당신의 아무 유닛을 제거하고 생성 시 소모했던 별의 절반들 돌려받으세요.
+  "tooltip.ability.destroy": "Remove any building within your borders, great for reconstructing your empire.",당신의 영역 안의 아무 건물을 제거하세요. 제국을 재구성하는 데 좋습니다.
+  "tooltip.ability.literacy": "Reduce the price of all technologies by 20%.",모든 기술의 가격을 20% 낮추세요.
+  "tooltip.ability.glide": "All non skating units get an extra move when moving on ice.",스케이트 능력이 없는 모든 유닛이 얼음에서 추가 이동 범위를 갖게 됩니다.
+  "tooltip.ability.dash": "This unit can attack after moving if there is an enemy in range.",이 유닛은 이동한 직후 공격 범위 내에 적이 있다면 공격할 수 있습니다.
+  "tooltip.ability.convert": "This unit can convert an enemy to your own tribe by attacking it.",이 유닛은 적을 공격함으로서 당신의 부족으로 만들 수 있습니다.
+  "tooltip.ability.escape": "This unit can move again after attacking.",이 유닛은 공격 직후 다시 움직일 수 있습니다.
+  "tooltip.ability.persist": "This unit can keep attacking as long as it completely kills its victims.",이 유닛은 공격 시 대상이 죽었다면 연속으로 공격할 수 있습니다.
+  "tooltip.ability.swim": "This unit is amphibious and can move on both land and water.",이 유닛은 땅과 물 모두를 오갈 수 있는 수륙 양용입니다.
+  "tooltip.ability.carry": "This unit is carrying another unit inside.",이 유닛은 다른 유닛을 안에 가지고 있습니다.
+  "tooltip.ability.heal": "This unit can heal surrounding units.",이 유닛은 근처의 유닛을 치유할 수 있습니다.
+  "tooltip.ability.navigate": "This unit can move in any terrain even if you do not have the tech needed to move there.",이 유닛은 특정 지형으로 이동하는 데 필요한 기술이 없어도 그곳으로 이동할 수 있습니다.
+  "tooltip.ability.fly": "This unit can fly over any terrain with no movement penalties or bonuses.",이 유닛은 모든 지형 위를 날아다닐 수 있으며, 이동 보너스나 제약을 받지 않습니다.
+  "tooltip.ability.splash": "This unit causes splash damage to nearby units when attacking.",이 유닛은 공격 대상 근처의 모든 유닛에게 광역 대미지를 줍니다.
+  "tooltip.ability.grow": "This unit will eventually grow and become something else.",이 유닛은 언젠가 자라서 다른 무언가로 성장할 것입니다.
+  "tooltip.ability.sneak": "This unit can move past enemy units without stopping.",이 유닛은 멈추지 않고 적 유닛을 지나쳐 움직일 수 있습니다.
+  "tooltip.ability.scout": "This unit has double vision range.",이 유닛은 두 칸의 시야를 가지고 있습니다.
+  "tooltip.ability.freeze": "This unit freezes its enemies when attacking them so they cannot move.",이 유닛은 공격하는 유닛을 얼려 움직일 수 없게 만듭니다.
+  "tooltip.ability.freeze_area": "This unit can freeze the surrounding tiles including any enemy units.",이 유닛은 근처의 모든 칸과 적을 얼릴 수 있습니다
+  "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",이 유닛은 움직일 때 근처의 모든 칸과 적을 얼립니다.
+  "tooltip.ability.skate": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",이 유닛은 얼음에서 두 배의 이동 보너스를 얻지만 육지에서는 이동 범위가 1로 제한되고 다른 모든 능력이 비활성화됩니다.
+  "tooltip.ability.fortify": "This unit gets a defence bonus when defending in its own cities, double bonus with a city wall.",이 유닛은 자기 부족의 도시에서 방어력 보너스를 얻으며, 도시 벽이 있으면 두 배의 보너스를 얻습니다.
+
+  "buttons.ok": "OK",확인
+  "buttons.exit": "EXIT",나가기
+  "buttons.save": "SAVE",저장
+  "buttons.back": "BACK",뒤로
+
+  "gameinfo.id": "id: {0}",아이디: {0}
+  "gameinfo.lastmove": "Last move: {0} ago",마지막 행동: {0} 전에
+  "gameinfo.updated": "updated: {0} ago",업데이트: {0} 전에
+  "gameinfo.turn": "Turn: {0}",턴: {0}
+  "gameinfo.serverversion": "Server version: {0}",서버 버전: {0}
+  "gameinfo.gameover": "This game is over, open it to view the final result",게임이 끝났습니다. 게임을 열어 최종 결과를 확인하세요
+  "gameinfo.yourturn": "It is your turn to {0}",{0}해주세요
+  "gameinfo.opponentsturn": "Waiting for {0} to {1}",{0}이 {1}하기를 기다리는 중입니다
+  "gameinfo.start": "start the game", 게임을 시작
+  "gameinfo.picktribe": "pick tribe",부족을 선택
+  "gameinfo.play": "play",게임을 진행
+
+  "gamesaverbinary.unable.to.save": "I was unable to save the game, make sure you have sufficient storage on your device",게임을 저장하지 못했습니다. 기기의 여유 저장 용량을 확인해주세요
+  "gamesaverbinary.unable.to.save.title": "Could not save :(",저장하지 못했습니다 :(
+  "gamesaverbinary.error.loading.moves": "Error loading moves",행동을 불러오지 못했습니다
+
+  "polyplayer.task": "task",과제
+  "polyplayer.task.explorer.title": "Explorer",탐험가
+  "polyplayer.task.explorer.description": "Explore every single tile in this square world",세계의 모든 칸을 탐험하기
+  "polyplayer.task.war.title": "No mercy",무자비
+  "polyplayer.task.war.description": "Wipe out an enemy",적 하나 쓸어버리기
+  "polyplayer.task.pacifist.title": "Pacifist",평화주의자
+  "polyplayer.task.pacifist.description": "Make no attacks for 5 turns",5턴동안 공격 하지 않기
+  "polyplayer.task.killer.title": "Killer",살인자
+  "polyplayer.task.killer.description": "Kill 10 enemies in battle",적 10명 죽이기
+  "polyplayer.task.wealth.title": "Wealth",부유함
+  "polyplayer.task.wealth.description": "Gather 100 stars",별 100개 모으기
+  "polyplayer.task.genius.title": "Genius",천재
+  "polyplayer.task.genius.description": "Discover all available technologies",모든 기술 습득하기
+  "polyplayer.task.metropolis.title": "Metropolis",대도시  "polyplayer.task.metropolis.description": "Create a level 5 city",5레벨 도시 만들기
+  "polyplayer.task.network.title": "Network",연결망
+  "polyplayer.task.network.description": "Connect 5 cities to your capital",수도에 5개의 도시 연결하기
+
+  "task.info": "{0} to get {1}",{0}을 완수하면 {1}을 건설할 수 있습니다
+
+  "price.stars": "star",별
+  "price.stars.plural": "stars",별
+  "price.population": "population",인구
+  "price.population.plural": "population",인구
+  "price.points": "point",점수
+  "price.points.plural": "points",점수
+
+  "wcontroller.online.yourturn.title": "It's your turn!",당신의 턴입니다!
+  "wcontroller.online.yourturn.description": "Tap ok to continue the game when you are ready.",준비되면 확인을 눌러 게임을 계속하세요.
+  "wcontroller.convertvillage.description": "The villagers agree to join your emerging empire!",마을 주민들이 당신의 성장하는 제국에 합류하는 것에 동의했습니다!
+  "wcontroller.convertvillage.title": "Village converted!",
+  "wcontroller.capital.regained.description": "You have regained control of your capital, trade networks are reestablished",수도를 되찾아서 교역로가 재건되었습니다
+  "wcontroller.capital.regained.title": "Great news!",좋은 소식
+  "wcontroller.capital.lost.description": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",당신의 수도가 {0} 무리에게 점령당했습니다! 수도를 되찾을 때까지 당신의 교역로가 중단됩니다
+  "wcontroller.capital.lost.title": "Bad news!",나쁜 소식
+  "wcontroller.capital.captured.description": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",{0} 수도를 점령했습니다! 그들이 이 수도를 되찾을 때까지 그들의 교역로가 중단됩니다
+  "wcontroller.capital.captured.title": "Great news!",좋은 소식
+  "wcontroller.capital.captured2.description": "{0} is now part of the {1} empire",{0}은 이제 {1} 제국의 일부입니다
+  "wcontroller.capital.captured2.title": "City captured!",도시 점령됨!
+  "wcontroller.kill.upgrade.description": "Unit is ready to upgrade!",유닛이 레벨 업할 준비가 되었습니다!
+  "wcontroller.kill.upgrade.title": "Level Up!",레벨 업!
+  "wcontroller.examine.water.elyrion": "You encountered an enchanted {0} who joined your tribe!",마법에 걸린 {0}를 만나 그가 당신의 부족에 합류합니다!
+  "wcontroller.examine.water": "You encountered a band of friendly pirates who joined your tribe!",친절한 해적 무리를 만나 그들이 당신의 부족에 합류합니다!
+  "wcontroller.examine.water.title": "Battle ship",전함
+  "wcontroller.examine.giant": "You found a friendly {0} who joined your tribe!",친절한 {0}을/를 만나 그가 당신의 부족에 합류합니다!,
+  "wcontroller.examine.explorer": "You meet some locals who show you the surrounding lands.",현지인을 만나 그가 주변의 땅을 보여줍니다.
+  "wcontroller.examine.explorer.title": "Explorer",탐험가
+  "wcontroller.examine.tech": "You found some old scrolls containing the secret of {0}.",{0}의 비밀을 담은 오래된 두루마리를 찾았습니더.
+  "wcontroller.examine.tech.title": "Scrolls of Wisdom",지혜의 두루마리
+  "wcontroller.examine.stars": "The ancient ruins are filled with valuable resources!",고대 유닛에 귀중한 자원이 가득합니다!
+  "wcontroller.examine.stars.title": "Resources",자원
+  "wcontroller.examine.population": "You meet a nomadic tribe that settle in your capital!",당신의 수도에 정착할 유목민을 만났습니다!
+  "wcontroller.examine.population.title": "Population",인구
+  "wcontroller.move.unto.unit": "CANT MOVE ONTO ANOTHER UNIT",다른 유닛 위로 이동할 수 없습니다
+  "wcontroller.building.upgrade": "Your {0} upgraded to a {1}!",당신의 {0}가 {1}로 업그레이드했습니다!
+  "wcontroller.building.upgrade.reward": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",{0}가 레벨 {1}이 되어 생산력이 1 증가했습니다. 업그레이드 보상을 선택하세요.
+  "wcontroller.reward.workshop": "workshop",작업장
+  "wcontroller.reward.citywall": "city wall",도시 벽
+  "wcontroller.reward.populationgrowth": "population growth",인구 증가
+  "wcontroller.reward.park": "park",공원
+  "wcontroller.reward.explorer": "explorer",탐험가
+  "wcontroller.reward.resources": "resources",자원
+  "wcontroller.reward.bordergrowth": "border growth",영토 확장
+  "wcontroller.reward.superunit": "super unit",슈퍼 유닛
+  "wcontroller.unit.promotion": "Your unit has gained veteran status! Health increased.",당신의 유닛이 베테랑이 되었습니다! 체력이 증가했습니다.
+  "wcontroller.unit.promotion.title": "Unit Promoted!",유닛 승급!
+  "wcontroller.meet.tribe.leader": "Their leader",그들의 지도자가
+  "wcontroller.meet.tribe.bigger.hostile": "laughs at your puny excuse of a Tribe.",당신의 보잘것없는 부족을 비웃습니다.
+  "wcontroller.meet.tribe.bigger.friendly": "salutes you friendly but pays no attention to your tiny realm.",당신을 친절히 맞이하지만 당신의 작은 왕국에 관심을 두지 않습니다.
+  "wcontroller.meet.tribe.smaller.hostile": "seems a bit hostile and greets you suspiciously.",적의를 가지고 당신을 수상하게 여기는 듯합니다.
+  "wcontroller.meet.tribe.smaller.friendly": "bows in awe of your might mighty civilization.",당신의 전능한 제국 앞에 두려워하며 절을 올립니다.
+  "wcontroller.meet.tribe.tech.hostile": "You manage to steal the secret of {0}!",당신은 가까스로 {0}의 비밀을 훔쳐왔습니다!
+  "wcontroller.meet.tribe.tech.friendly": "As a gesture of good will they share the secret of {0}!",선의의 표시로 그들이 {0}의 비밀을 공유합니다!
+  "wcontroller.meet.tribe.resource.hostile": "You manage to steal some valuable gold pieces!",당신은 가까스로 약간의 귀중한 황금 덩어리를 훔쳐왔습니다!
+  "wcontroller.meet.tribe.resource.friendly": "They present you with a gift of valuable resources!",그들이 귀중한 자원을 선물합니다!
+  "wcontroller.tribe.destroy": "You have destroyed {0}!",{0}을/를 멸망시켰습니다!
+  "wcontroller.tribe.destroy.title": "Blood!",
+  "wcontroller.tribe.destroy2": "{0} has been destroyed by the {1}!",{0}이 {1}을 멸망시켰습니다!
+  "wcontroller.tribe.destroy.all": "You have destroyed all opposing tribes and unified the entire square under your command!",당신은 모든 적 부족을 멸망시키고 온 세계를 당신의 권력 아래 통합했습니다!
+  "wcontroller.tribe.destroy.all.title": "Domination!",점령!
+  "wcontroller.city.disconnect": "{0} was disconnected from {1}",{0}과 {1}과의 연결이 해제되었습니다
+  "wcontroller.city.disconnect.title": "Trade route lost!",교역로 손실!
+  "wcontroller.turn.end": "Ending turn...",턴을 마치는 중...
+  "wcontroller.turn.saving": "Saving game to server...",게임을 서버에 저장하는 중...
+  "wcontroller.turn.notification": "It's your turn in {0} (turn {1})",{0}에서 당신이 플레이할 차례가 되었습니다 ({1}번째 턴)
+  "wcontroller.turn.passed": "Game passed on to {0}",{0}에게 게임을 넘겼습니다
+  "wcontroller.turn.passed.title": "Turn complete",턴 완료
+  "wcontroller.turn.error": "Could not reach the multiplayer server. Please make sure you are connected to the internet and try again.",멀티플레이어 서버에 연결할 수 없습니다. 인터넷 연결을 확인하고 다시 시도해주세요.
+  "wcontroller.turn.error.title": "Network Error",네트워크 오류
+  "wcontroller.turn.next": "Next up",
+  "wcontroller.load.error": "There is no saved game to resume, start a new game!",재개할 게임이 없습니다. 새 개임을 시작하세요!
+  "wcontroller.load.error.title": "No saved game",저장된 게임이 없습니다
+  "wcontroller.load.notpartof": "You are not a part of this game",당신은 이 게임의 참가자가 아닙니다
+  "wcontroller.load.wait": "Wait until this game has fully downloaded before opening it.",이 게임이 전부 다운로드될 때까지 기다리고 열어주세요.
+  "wcontroller.load.wait.title": "Still loading...",계속 로딩 중...
+  "wcontroller.load.update": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",이 게임은 새 버전의 폴리토피아를 사용 중입니다. {0}에서 게임을 업데이트해주세요.
+  "wcontroller.load.update.title": "Update Required",업데이트 필요
+  "wcontroller.removingplayer": "Removing Player",플레이어 제거
+  "wcontroller.not.your.turn": "Sorry, it's not your turn yet!",죄송합니다만 아직 당신의 턴이 아닙니다!
+
+  "technology.intro": "This tech will enable the following:",이 기술은 이하의 것을 제공합니다.
+  "technology.build": "{0} makes it possible to build {1}",{0}은 {1}을/를 건설할 수 있게 해줍니다
+  "technology.movement": "Movement",이동
+  "technology.movement.info": "enables movement in {0}",{0}에서 이동할 수 있게 해줍니다
+  "technology.defence": "Defence Bonus",방어력 보너스
+  "technology.defence.info": "gives your unit extra strength when defending in {0}",{0}에서 방어력이 상승합니다
+  "technology.task": "{0} activates the {1} task",{0}은 {1} 과제를 활성화합니다
+  "technology.ability": "ability",능력
+  "technology.ability.info": "{1} gives you the ability to {1}",{1}은 {1}의 능력을 줍니다
+  "technology.names.basic": "basic",기본
+  "technology.names.riding": "Riding",라이딩
+  "technology.names.freespirit": "Free Spirit",영혼 해방
+  "technology.names.chivalry": "Chivalry",기사도
+  "technology.names.roads": "Roads",도로
+  "technology.names.trade": "Trade",무역
+  "technology.names.organization": "Organization",조직
+  "technology.names.shields": "Shields",방패
+  "technology.names.farming": "Farming",농사
+  "technology.names.construction": "Construction",건설
+  "technology.names.fishing": "Fishing",낚시
+  "technology.names.whaling": "Whaling",고래잡이
+  "technology.names.aquatism": "Aquatism",아쿠아티즘
+  "technology.names.sailing": "Sailing",출항
+  "technology.names.navigation": "Navigation",운항
+  "technology.names.hunting": "Hunting",사냥
+  "technology.names.forestry": "Forestry",임학
+  "technology.names.mathematics": "Mathematics",수학
+  "technology.names.archery": "Archery",궁도
+  "technology.names.spiritualism": "Spiritualism",심령론
+  "technology.names.climbing": "Climbing",산악
+  "technology.names.meditation": "Meditation",명상
+  "technology.names.philosophy": "Philosophy",철학
+  "technology.names.mining": "Mining",광업
+  "technology.names.smithery": "Smithery",금속 세공
+  "technology.names.freediving": "Free Diving",자유 수영
+  "technology.names.spearing": "Spearing",창술
+  "technology.names.forestmagic": "Forest Magic",숲 마법
+  "technology.names.watermagic": "Water Magic",물 마법
+  "technology.names.frostwork": "Frostwork",성에
+  "technology.names.polarwarfare": "Polar Warfare",극지 전투
+  "technology.names.polarism": "Polarism",극지주의
+
+  "techview.info": "Tech costs increase for each city in your empire.",당신의 제국의 도시 하나마다 기술 값이 증가합니다.
+  "techview.info.literacy": "Literacy reduce the price of all technologies by 20%!",문해력이 모든 기술의 가격을 20% 낮춥니다!
+  "techview.locked": "(locked)",(잠김)
+  "techview.locked.info": "You must research {0} before you can learn {1}.",{1}을 습득하려면 먼저 {0}을 연구해야 합니다.
+  "techview.completed": "(completed)",(완료)
+  "techview.completed.info": "You have already researched this technology.",이미 이 기술을 연구했습니다.
+  "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",이것을 구매하기에 별이 부족합니다. '다음 턴'을 눌러 별을 더 획득하세요.
+  "techview.research": "RESEARCH",연구
+
+  "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",이 유닛으로 공격해보세요. 공격하기 위해서는 이 유닛을 클릭하고 아무 빨간 타겟을 클릭하세요.
+  "action.info.recover": "Recover",회복
+  "action.info.healothers": "Heal Others",치유하기
+  "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",이 도시에서 유닛을 훈련해보세요. 유닛은 세계를 탐험하고 적을 공격하고 당신의 도시를 방어하는 데 사용할 수 있습니다.
+  "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",이 유닛을 움직여보세요. 유닛을 선택하고 아무 파란 타겟을 클릭하세요.
+  "action.info.capture": "capture",점령
+  "action.info.capture2": "capture this city. Cities generate stars every turn that you can use to develop your empire",이 도시를 점령해보세요. 도시는 제국을 발전시키는 데 필요한 별을 매 턴 생산합니다.
+  "action.info.destroy": "destroy",파괴
+  "action.info.disband": "Disband {0}",해산
+  "action.info.remove": "Remove",제거
+  "action.info.cityreward": "City Reward",도시 보상
+  "action.info.reward": "Reward",보상
+  "action.info.trip": "Trip",
+  "action.info.meet": "Meet",
+  "action.info.promote": "Promote",
+  "action.info.examine": "Examine",탐사
+  "action.info.endturn": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",턴을 마쳐 자원을 더 획득하고 유닛이 다시 움직일 수 있도록 해보세요. '다음 턴' 버튼을 누르세요.
+  "action.info.stay": "Stay",머무르기
+  "action.info.healarea": "healArea",치유
+  "action.info.freezearea": "Freeze Area",얼리기
+  "action.info.breakice": "Break Ice",얼음 파괴
+  "action.info.do": "do {0} here",{0}을/를 해보세요.
+  "action.info.build": "build a {0} here",여기에 {0}을/를 만들어보세요.
+  "action.info.reward.population": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",그러면 가까운 도시의 인구가 증가할 것입니다. 인구가 충분히 증가하면 도시가 레벨 업하고 더 많은 자원을 생산합니다.
+  "action.info.reward.resources": "That will give you an instant reward of {0} resources",그러면 즉시 {0} 자원을 얻게 됩니다.
+  "action.info.research": "research {0}.",{0} 연구
+
+  "actionbtn.upgrade": "Upgrade to {0}",{0}으로 업그레이드
+  "actionbtn.remove.building": "Building",건물
+  "actionbtn.remove.roads": "Roads",도로
+
+  "stringtools.typelist.and": "and",
+
+  "topbar.score": "Score",점수
+  "topbar.turn": "Turn",턴
+  "topbar.stars": "Stars (+{0})",별 (+{0})
+
+  "bottommenu.gamestats": "Game Stats",통계
+  "bottommenu.menu": "Menu",메뉴
+  "bottommenu.nextturn": "Next Turn",다음 턴
+  "bottommenu.techtree": "Tech Tree",기술
+
+  "endscreen.done": "DONE",
+  "endscreen.ruledby": "Ruled by {0}",
+  "endscreen.army&territory": "Army & Territory",
+  "endscreen.monuments&temples": "Monuments & temples",
+  "endscreen.cities": "Cities",
+  "endscreen.science": "Science",
+  "endscreen.units": "{0} units, {1} tiles empire",
+  "endscreen.culture": "{0} monuments, {1} temples",
+  "endscreen.citiescount": "{0} cities",
+  "endscreen.techscore": "{0}/{1} technologies researched",
+  "endscreen.bonus": "Difficulty Bonus",
+  "endscreen.finalscore": "FINAL SCORE",
+  "endscreen.speedskills": "Speed skills",
+  "endscreen.domination.win": "{0}/{1} turns",
+  "endscreen.domination.loss": "{0} turns",
+  "endscreen.battle": "Battle skills",
+  "endscreen.battle.info": "{0} units lost",
+  "endscreen.destroyed": "Tribes destroyed",
+  "endscreen.destroyed.info": "{0}/{1}",
+  "endscreen.rating": "Difficulty rating",
+  "endscreen.finalrating": "FINAL RATING",
+  "endscreen.nextstar.percent": "{0}% needed for next star",
+  "endscreen.nextstar": "{0} needed for next star",
+  "endscreen.topresult": "New top result!",
+  "endscreen.topresult.title": "Great!",
+  "endscreen.personal": "New personal all time high!",
+  "endscreen.personal.title": "Amazing!",
+  "endscreen.showhiscore": "SHOW HISCORE",
+  "endscreen.winner": "{0} win!",
+  "endscreen.victory": "VICTORY",
+  "endscreen.gameover": "GAME OVER",
+
+  "highscore.title": "HIGH SCORE",
+  "highscore.today": "Today",
+  "highscore.thisweek": "This Week",
+  "highscore.alltime": "All Time",
+  "highscore.alltribes": "All Tribes",
+  "highscore.hiscore": "hiscore",
+  "highscore.loading": "Loading..",
+  "highscore.notavailable": "High Score not available.",
+
+  "multiplayer.passplay": "Pass & Play",
+  "multiplayer.passplay.info": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
+  "multiplayer.activegames": "Active Games",
+  "multiplayer.finishedgames": "Finished Games",
+  "multiplayer.creategame": "Create game",
+  "multiplayer.clipboard": "Gamedata added to clipboard",
+  "multiplayer.clipboard.title": "Voilà!",
+
+  "gamestats.gamemode": "Game mode: {0}",
+  "gamestats.bonus": "Difficulty bonus: {0}",
+  "gamestats.speed": "Speed skills",
+  "gamestats.speed.info": "{0}/{1} turns",
+  "gamestats.battle": "Battle skills",
+  "gamestats.battle.info": "{0} won, {1} lost",
+  "gamestatus.tribes": "Tribes destroyed",
+  "gamestatus.difficulty": "Difficulty rating",
+  "gamestatus.capitals": "Capitals Owned",
+  "gamestatus.scores": "Scores",
+  "gamestatus.ruled": "Ruled by {0}",
+  "gamestatus.ruled.you": "Ruled by you",
+  "gamestatus.unknown.tribe": "Unknown tribe",
+  "gamestatus.unknown.ruler": "Unknown ruler",
+  "gamestatus.score": "score: {0} points",
+  "gamestatus.city": "{0} city",
+  "gamestatus.cities": "{0} cities",
+  "gamestatus.destroyed": "destroyed",
+  "gamestatus.tasks": "Tasks {0}/{1}",
+  "gamestatus.tasks.complete": "Complete!",
+
+  "settings.title": "SETTINGS",
+  "settings.volume": "Audio volume {0}",
+  "settings.soundeffects": "Sound Effects",
+  "settings.ambience": "Ambience",
+  "settings.tribemusic": "Tribe Music",
+  "settings.suggestions": "Suggestions",
+  "settings.info": "Info on Build",
+  "settings.confirm": "Confirm turn",
+  "settings.saveexit": "EXIT TO MENU",
+  "settings.on": "ON",
+  "settings.off": "OFF",
+  "settings.language": "Language",
+  "settings.restartlanguage": "Please restart Polytopia to fully switch language",
+  "settings.language.load.title":"Custom language (BETA)",
+  "settings.language.load.info":"Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
+  "settings.language.load.input":"Language file url:",
+  "settings.language.load.button":"LOAD",
+  "throne.title": "THRONE ROOM",
+  "throne.reset": "reset scores",
+  "throne.playerinfo": "Player Info",
+  "throne.playerid": "Player ID",
+  "throne.clipboard": "Player ID added to clipboard",
+  "throne.clipboard.title": "Voilà!",
+  "throne.alias": "Alias",
+  "throne.played": "Games Played",
+  "throne.topscore": "Top Score",
+  "throne.toprating": "Top Rating",
+  "throne.resetwarning": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
+  "throne.resetwarning.title": "Reset Scores",
+  "throne.reset.complete": "Scores are now reset",
+  "throne.google.achievements": "ACHIEVEMENTS",
+  "throne.google.signedin": "You are signed in using Google Play",
+  "throne.google.out": "SIGN OUT",
+  "throne.google.info": "(!)You need to sign in with Google Play to save your game data and high scores.",
+  "throne.google.in": "SIGN IN",
+
+  "consent.approval.title":"Welcome to Polytopia!",
+  "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
+  "consent.approve":"APPROVE",
+  "consent.deny":"DENY",
+  "consent.enabled":"Personal Data Enabled",
+  "consent.enabled.info":"You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+  "consent.disabled":"Personal Data Disabled",
+  "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+  "consent.revoke":"revoke consent",
+
+  "onlineview.title": "MULTIPLAYER",
+  "onlineview.loadingservice": "Loading Service",
+  "onlineview.yourturn": "Your Turn",
+  "onlineview.theirturn": "Their Turn",
+  "onlineview.reloading": "Reloading..",
+  "onlineview.reloading.release": "Release to reload...",
+  "onlineview.newgame": "New Game",
+  "onlineview.friends": "Friends",
+  "onlineview.profile": "Profile",
+  "onlineview.passplay": "Pass & Play",
+  "onlineview.refresh": "Refresh",
+  "onlineview.profile.available": "Profile is only available when connected to the server.",
+  "onlineview.friendlist.available": "Friend List is only available when connected to the server.",
+  "onlineview.servicedisabled": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
+  "onlineview.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+  "onlineview.uptodate": "All games are up to date",
+  "onlineview.intro.fix": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+  "onlineview.intro.update": "Online multiplayer is not available, please update Polytopia to the latest version",
+  "onlineview.gameinvitations": "Game Invitations",
+  "onlineview.nogames.intro": "Hi {0}!",
+  "onlineview.nogames.start": "Let's get some online games going with your friends. Tap 'New game' to start one.",
+  "onlineview.nogames.first": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
+  "onlineview.or": "or",
+  "onlineview.passplay.start": "Start a local Pass & Play game by tapping 'New Game'",
+  "onlineview.login.ios": "Log in to {0}",
+  "onlineview.login.ios.info": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
+  "onlineview.notifications": "Enable notifications",
+  "onlineview.notifications.info": "We use notifications to communicate the status of your ongoing multiplayer games.",
+  "onlineview.purchase": "Purchase one Tribe",
+  "onlineview.purchase.info": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
+  "onlineview.completed": "completed",
+  "onlineview.required": "required",
+  "onlineview.check": "check",
+  "onlineview.fixit": "FIX IT",
+  "onlineview.clipboard": "Game ID added to clipboard: {0}",
+  "onlineview.clipboard.title": "Voilà!",
+  "onlineview.game.join": "JOIN GAME",
+  "onlineview.game.start": "START GAME",
+  "onlineview.game.open": "OPEN",
+  "onlineview.game.size": "Map Size",
+  "onlineview.game.moreinfo": "More info",
+  "onlineview.game.gameinfo": "Game Info",
+  "onlineview.game.you": "You",
+  "onlineview.game.resign": "RESIGN",
+  "onlineview.game.decline": "DECLINE",
+  "onlineview.game.delete": "DELETE",
+  "onlineview.game.resign.title": "Resign",
+  "onlineview.game.resign.info": "Are you sure you want to leave this game permanently?",
+  "onlineview.game.old.title": "Old file version",
+  "onlineview.game.old.info": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
+  "onlineview.game.player.left": "{0} has left the game {1} and has been replaced by a bot.",
+  "onlineview.game.player.kicked": "You have been removed from game {0}",
+  "onlineview.game.player.invited": "You are invited to a new game, {0}",
+
+  "firebaseservice.status.connecting": "Connecting to the Polytopia server...",
+  "firebaseservice.status.loading": "Loading game data...",
+  "firebaseservice.status.loading.count": "Loading game data, {0} left",
+  "firebaseservice.status.loading.player": "Loading player data...",
+  "firebaseservice.status.sync": "Sync chronometer..",
+  "firebaseservice.status.sync.player": "Syncing your player data..",
+  "firebaseservice.status.checking": "Checking for changes..",
+  "firebaseservice.status.loading.messages": "Loading messages...",
+  "firebaseservice.important.title": "Important information",
+  "firebaseservice.important.deleted": "{0} has deleted you from multiplayer game {1}",
+  "firebaseservice.error": "There was an error saving the game. Please try again.",
+  "firebaseservice.invite": "You are invited to a new game, {0}",
+  "firebaseservice.removed": "You have been removed from game {0}",
+
+  "friendlist.title": "FRIEND LIST",
+  "friendlist.new.caps": "ADD FRIEND",
+  "friendlist.new.title": "Add a new friend",
+  "friendlist.new.info": "Enter the player ID of your friend. (they can find it on this Friend page on their device)",
+  "friendlist.new.button": "ADD",
+  "friendlist.new.input": "Player ID:",
+  "friendlist.new.myself.title": "Me, myself & I",
+  "friendlist.new.myself.info": "Seems like you tried to add yourself as a friend. That might sound like a nice thing to do but it would add an existential layer to the game that we cannot handle at the moment. Please submit a player ID of someone else.",
+  "friendlist.new.empty.title": "Emptiness",
+  "friendlist.new.empty.info": "The player ID you entered was completely empty! You should not try to make friends with the void, it is a very lonely path.",
+  "friendlist.new.exists.title": "Duplicate Player",
+  "friendlist.new.exists.info": "You are already friends with {0}",
+  "friendlist.new.looking.title": "Loading Player",
+  "friendlist.new.looking.info": "Looking for player {0}",
+  "friendlist.new.added.title": "Player Added",
+  "friendlist.new.added.info": "Added player {0}",
+  "friendlist.new.error.title": "Error loading player",
+  "friendlist.new.error.info": "Could not find player with the ID {0}.",
+  "friendlist.new.error2.title": "Player not found",
+  "friendlist.new.error2.info": "Could not find any player with the ID {0}. Error: {1}",
+  "friendlist.loading": "Loading friends...",
+  "friendlist.error": "Error loading friends",
+  "friendlist.friends": "Friends",
+  "friendlist.friends.old": "Outdated friends",
+  "friendlist.local": "Local Players",
+  "friendlist.bots": "Bots",
+  "friendlist.bot": "{0} Bot",
+  "friendlist.player": "Player {0}",
+  "friendlist.remove": "REMOVE",
+  "friendlist.reload": "RELOAD",
+  "friendlist.checking": "Checking friend status..",
+  "friendlist.friend.update": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
+  "friendlist.friend.updated": "{0} is now on the new server",
+  "friendlist.friend.notupdated": "{0} is still on the old server",
+  "friendlist.removed.title": "Player Removed",
+  "friendlist.removed.info": "Removed player {0}",
+
+  "idconsole.playerid": "Your Player ID:",
+  "idconsole.share": "Send this Player ID to anyone you want to play against. Tap it to copy.",
+  "idconsole.clipboard": "Player ID {0} added to clipboard",
+  "idconsole.clipboard.title": "Voilà!",
+
+  "playerpickerview.title": "PICK PLAYERS",
+  "playerpickerview.name": "Game Name",
+  "playerpickerview.startgame": "START GAME",
+  "playerpickerview.addplayer": "ADD PLAYER",
+  "playerpickerview.size": "Map size: {0} tiles",
+  "playerpickerview.mode": "Game mode: {0}",
+  "playerpickerview.players": "Players ({0}/{1})",
+  "playerpickerview.you": "{0} (you)",
+  "playerpickerview.bot": "{0} ({1} bot)",
+  "playerpickerview.human": "No human player",
+  "playerpickerview.human.info": "There needs to be at least one human player to start a game",
+
+  "gameitem.join": "Join this game or decline the invitation",
+  "gameitem.join.wait": "Waiting for {0} to pick tribe",
+  "gameitem.ready": "Ready to start!",
+  "gameitem.ready.wait": "{0} can start the game",
+  "gameitem.turn.your": "Your turn",
+  "gameitem.turn.other": "Waiting for {0}",
+  "gameitem.gameover": "This game is over, tap to see the end.",
+  "gameitem.pick": "{0}, pick your tribe",
+  "gameitem.start": "{0}, start the game",
+  "gameitem.turn": "{0}, take your turn",
+  "gameitem.ended": "This game is over.",
+  "gameitem.pending": "Pending. Open and save to server.",
+  "gameitem.timeup": "Time Up!",
+  "gameitem.timeup.info": "Your time to make a move is up, do you want to resign?",
+  "gameitem.timelimit": "Time limit",
+  "gameitem.timelimit.info": "You have {0} to make your move, after that you will be removed from the game.",
+  "gameitem.kick": "Duh!",
+  "gameitem.kick.info": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
+  "gameitem.kick.action": "KICK",
+  "gameitem.slow": "Come on..",
+  "gameitem.slow.info": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
+  "gameitem.slow.action": "REMIND",
+  "gameitem.timeleft": "Cool runnings",
+  "gameitem.timeleft.info": "{0} still has {1} to make a move.",
+  "gameitem.reload": "RELOAD",
+  "gameitem.remind.max": "That's enough",
+  "gameitem.remind.max.info": "Reminder already sent to {0}",
+  "gameitem.remind.notification": "We are waiting for you to play in {0}. Come on!!",
+  "gameitem.remind.notify": "Done",
+  "gameitem.remind.notify.info": "Reminder sent to {0}",
+
+  "mplayerstats.title": "PLAYER PROFILE",
+  "mplayerstats.clear": "clear data",
+  "mplayerstats.reload": "reload multiplayer data",
+  "mplayerstats.multiplayer.faq": "MULTIPLAYER FAQ",
+  "mplayerstats.alias": "Alias",
+  "mplayerstats.friends": "nº of friends",
+  "mplayerstats.games": "Games Played",
+  "mplayerstats.server": "Server version",
+  "mplayerstats.lost": "Feeling lost? Check the:",
+
+  "credits.title": "ABOUT",
+  "credits.subtitle": "Indie Delight",
+  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.",
+  "credits.learnmore1": "Want to know everything?",
+  "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
+  "credits.wiki": "POLYTOPIA WIKI",
+  "credits.showsupport": "Show your support!",
+  "credits.getmerch": "Get some official Polytopian merch:",
+  "credits.visitshop": "VISIT THE SHOP",
+  "credits.programming": "Programming & Design",
+  "credits.sound": "Sound & Music",
+  "credits.tribe": "Tribe Design",
+  "credits.debuginfo": "Debug info",
+  "credits.build": "Build version",
+  "credits.os": "OS",
+  "credits.screendpi": "Screen DPI",
+  "credits.screensize": "Screen size",
+  "credits.privacy": "Privacy Policy",
+  "credits.terms": "Terms of Service",
+
+  "date.day": "day",
+  "date.days": "days",
+  "date.hour": "hour",
+  "date.hours": "hours",
+  "date.minute": "minute",
+  "date.minutes": "minutes",
+  "date.second": "second",
+  "date.seconds": "seconds",
+
+  "friendlist.friendrequests": "Friend Requests",
+  "friendlist.pendinginvitations": "Pending Invitations",
+  "friendlist.rejectedinvitations": "Rejected Invitations",
+  "friendlist.new.Search": "SEARCH",
+  "friendlist.new.accept": "ACCEPT",
+  "friendlist.new.reject": "REJECT",
+  "friendlist.new.Results": "Results:",
+  "friendlist.requestrecieved": "Friend Request Received",
+  "friendlist.requestaccepted": "Friend Request Accepted",
+
+  "mplayerstats.appversion": "App version:",
+
+  "gameitem.start.wait": "Waiting for {0} to start the game",
+
+  "gamesettings.disableTribes": "Enable or Disable Tribes",
+
+  "startmenu.quit": "QUIT",
+  "buttons.quit": "Quit",
+
+  "mplayerstats.reloading": "Reloading..",
+  "mplayerstats.uptodate": "Everything is up to date",
+  "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+
+  "friendlist.reloading": "Reloading..",
+  "friendlist.uptodate": "Everything is up to date",
+  "friendlist.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+  "friendlist.cancelinvite.button": "CANCEL INVITE",
+  "friendlist.acceptinvite.button": "ACCEPT INVITE",
+
+  "friendlist.friendshipstate": "Friendship status: {0}",
+  "friendlist.friendshipstate.none": "You're not friends with this player. Maybe you would like to be?",
+  "friendlist.friendshipstate.isyou": "This is you.",
+  "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
+  "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
+  "friendlist.friendshipstate.receivedrequest": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games.",
+  "friendlist.friendshipstate.rejected": "Friend request rejected."
+}
