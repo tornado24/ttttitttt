@@ -89,7 +89,7 @@
 
   "gamemode.perfection.caps": "퍼펙션",
   "gamemode.perfection": "퍼펙션",
-  "gamemode.perfection.description.button": "30턴 게임을 통해 세계 순위에 당신의 실력을 보여주세요",
+  "gamemode.perfection.description.button": "기본 30턴 게임을 통해 당신의 실력을 글로벌 순위에서 보여주세요",
   "gamemode.perfection.description": "30턴이 지나기 전에 최대한 많은 점수를 획득하세요",
   "gamemode.perfection.win": "시간의 종료되었습니다  당신의 부족의 역사가 영원히 기억될 것입니다!",
   "gamemode.perfection.loss": "시간의 종료되었습니다",
@@ -164,8 +164,8 @@
   "world.task.new": "새로운 과제가 생겼습니다!",
 
   "tribes.nature": "자연",
-  "tribes.xin-xi": "신-시",
-  "tribes.xin-xi.info": "신-시는 그들의 여정을 아름다운 벚꽃으로 둘러쌓인 빽빽한 산에서 시작합니다.\n\n{0}는 '{1}' 기술을 가지고 시작합니다",
+  "tribes.xin-xi": "신시",
+  "tribes.xin-xi.info": "신시는 그들의 여정을 아름다운 벚꽃으로 둘러쌓인 빽빽한 산에서 시작합니다.\n\n{0}는 '{1}' 기술을 가지고 시작합니다",
   "tribes.imperius": "임페리우스",
   "tribes.imperius.info": "거대한 산들과 푸른 골짜기들. {0}의 기후는 과일이 자라기에 완벽합니다. \n\n{0}는'{1}'기술을 가지고 시작합니다",
   "tribes.bardur": "Bardur",
