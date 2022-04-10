@@ -221,7 +221,7 @@
   "building.ability.road": "도시를 수도와 연결하기 위하여 도로를 건설하세요. 연결된 도시는 인구 1명을 얻게 됩니다. 도로는 모든 유닛에게 이동 보너스를 제공합니다.",
   "building.ability.ruin": "고대 문명의 유적. 가치 있는 것이 숨겨져있을 수도 있습니다! 조사하려면 이곳에 유닛을 보내세요.",
   "building.ability.patina": "{0}은 시간이 지나며 성장하므로 최대한 일찍 건설하세요.",
-  "building.ability.limited": "{0}은 도시 당 1개만 건설할 수 있습니다.",
+  "building.ability.limited": "{0}은/는 도시 당 1개만 건설할 수 있습니다.",
   "building.ability.unique": "{0}은 한 번만 건설할 수 있습니다.",
   "building.restriction.near": "{0}의 주변에만 지을 수 있습니다.",
   "building.restriction.on": "{0}이 있는 칸에만 지을 수 있습니다..",
