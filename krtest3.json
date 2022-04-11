@@ -462,7 +462,7 @@
   "tooltip.unit.grow.later": "{1}턴 후 {0}이 될 것입니다.",
   "tooltip.unit.decay.now": "This unit will dissolve at the end of this turn.",
   "tooltip.unit.decay.later": "This unit will dissolve in {0} turns.",
-  "tooltip.ability.disband": "유닛을 제거하고 생성 시 소모했던 별의 절반들 돌려받으세요.",
+  "tooltip.ability.disband": "유닛을 제거하고 생성 시 소모했던 별의 절반을 돌려받으세요.",
   "tooltip.ability.destroy": "영역 안의 건물을 제거하세요. 제국을 재구성하는 데 좋습니다.",
   "tooltip.ability.literacy": "모든 기술의 가격을 33% 낮추세요.",
   "tooltip.ability.glide": "스케이트 능력이 없는 모든 유닛이 얼음에서 추가 이동 범위를 갖게 됩니다.",
