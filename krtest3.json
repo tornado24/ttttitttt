@@ -1038,10 +1038,12 @@
   "friendlist.friendshipstate.receivedrequest": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games.",
   "friendlist.friendshipstate.rejected": "친구 요청 거부됨.",
   "friendlist.unfriend": "친구취소.",
-  "firendList.winratio": "-승률-",
+  "friendList.winratio": "-승률-",
   
   "playerinfopopup.friend": "친구",
   "playerinfopopup.you.description": "이것은 당신입니다!",
   "backend.connecting": "서버에 연결하는 중",
-  
+  "updateavatar.title": "아바타 업데이트",
+  "updateavatar.description": "아바타를 눌러 새 창조물을 만드세요.",
+  "updateavatar.save": "",
 }
