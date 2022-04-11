@@ -67,6 +67,7 @@
   "gamesettings.info.matchmaking.opponentcount": "{0}",
   "gamesettings.info.matchmaking.mappreset": "{0}",
   "gamesettings.info.matchmaking.timelimit": "{0}",
+  "gamesettings.info.gamepreferences.info": "더 많은 설정을 적용시킬수록, 매칭 상대를 찾는데 더 많은 시간이 걸립니다. 그러므로 빠르게 게임하려면 설정을 건드리지 않은 채로 놔두세요.",
   "gamesettings.difficulty": "난이도",
   "gamesettings.difficulty.easy": "쉬움",
   "gamesettings.difficulty.normal": "보통",
