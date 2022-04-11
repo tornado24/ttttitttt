@@ -241,6 +241,7 @@
   "building.city.owner": "{0}는 {1} 제국의 도시입니다",
   "building.village.owner": "어느 부족도 점령하지 않은 마을입니다",
   "building.ability.attract": "3턴 마다 근처의 숲에 야생 동물을 데려옵니다.",
+  "building.ability.poison": "{0}의 독은 그것을 밟는 모든 유닛을 중독시킵니다. 중독된 유닛은 모든 방어 보너스를 잃고, 죽었을 때 포자를 퍼뜨립니다.",
   "building.produce": "매 턴 {0}을 생산합니다",
   "building.produce.multiply.polaris": " (전 세계의 얼어붙은 칸 {1}개마다 {0}를 생산합니다)",
   "building.produce.multiply2.polaris": "매 턴 전 세계의 얼어붙은 칸 {1}개마다 {0}을 생산합니다",
@@ -375,6 +376,8 @@
   "unit.abilities.boost": "증폭",
   "unit.abilities.surprise": "기습",
   "unit.abilities.poison": "독",
+  "unit.abilities.creep": "기어다님",
+  "unit.abilities.explode": "폭발",
 
   "player.abilities.destroy": "파괴",
   "player.abilities.disband": "해산",
