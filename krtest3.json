@@ -907,6 +907,9 @@
   "onlineview.game.missingplayers": "빈자리",
   "onlineview.gamedeleted.title": "게임 취소",
   "onlineview.gamedeleted.info": "상대방이 게임을 취소하였습니다",
+  "onlineview.game.leavematchmaking": "떠나기",
+  "onlineview.game.leavematchmaking.title": "떠나기",
+  "onlineview.game.leavematchmaking.info": "정말 이 게임을 기다리는 것을 그만 두시겠습니까?",
 
   "firebaseservice.status.connecting": "폴리토피아 서버에 연결하는 중...",
   "firebaseservice.status.loading": "게임 데이터 불러오는 중...",
