@@ -487,7 +487,7 @@
   "tooltip.ability.independent": "이 유닛은 고향으로부터의 지원을 필요로 하지 않습니다.",
   "tooltip.ability.creep": "이 유닛은 거친 지형으로부터의 이동 불이익을 받지 않습니다.",
   "tooltip.ability.explode": "유닛을 폭발시키면 주변 적에게 독과 부수적인 피해를 입힙니다.",
-  "tooltip.ability.explode": "공격할 때 적으로부터 반격당하지 않습니다. 가까운 거리에서도 마찬가지입니다.",
+  "tooltip.ability.surprise": "공격할 때 적으로부터 반격당하지 않습니다. 가까운 거리에서도 마찬가지입니다.",
   "tooltip.ability.eat": "적을 죽일 때 마다 이 유닛의 길이가 늘어납니다.",
   "tooltip.ability.poison": "공격할 때 적을 중독시킵니다. 중독된 유닛은 모든 방어 보너스를 잃고, 죽었을 때 포자를 퍼뜨립니다.",
   "tooltip.ability.decompose": "국경선 안에 있는 아무 건물이나 분해하여 턴이 종료될 때 사용된 모든 별을 회수합니다.",
