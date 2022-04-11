@@ -759,6 +759,8 @@
   "settings.language.load.info": "https를 사용하여 원격 서버에서 Polytopia 언어 파일을 로드합니다. 실험적인 기능입니다, 겁 많은 사람을 위한 기능이 아닙니다.",
   "settings.language.load.input":"언어 파일 주소:",
   "settings.language.load.button":"불러오기",
+  "settings.language.load.error.title":"오류 발생",
+  "settings.language.load.error.info":"언어 불러오기에 실패했습니다",
   "settings.showadvanced": "세부설정 켜기",
   "settings.hideadvanced": "세부설정 끄기",
   "settings.scale": "비율",
