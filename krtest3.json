@@ -904,7 +904,7 @@
   "onlineview.randommatch.start": "무작위로 선택된 상대방과 게임을 시작하세요",
   "onlineview.matchmaking": "랜덤 매치",
   "onlineview.waiting": "플레이어를 기다리는 중",
-  "onlineview.game.missingplayers": "빈자리",
+  "onlineview.game.missingplayer": "빈자리",
   "onlineview.gamedeleted.title": "게임 취소",
   "onlineview.gamedeleted.info": "상대방이 게임을 취소하였습니다",
   "onlineview.game.leavematchmaking": "떠나기",
