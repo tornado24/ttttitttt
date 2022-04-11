@@ -491,6 +491,7 @@
   "tooltip.ability.eat": "적을 죽일 때 마다 이 유닛의 길이가 늘어납니다.",
   "tooltip.ability.poison": "공격할 때 적을 중독시킵니다. 중독된 유닛은 모든 방어 보너스를 잃고, 죽었을 때 포자를 퍼뜨립니다.",
   "tooltip.ability.decompose": "국경선 안에 있는 아무 건물이나 분해하여 턴이 종료될 때 사용된 모든 별을 회수합니다.",
+  "tooltip.ability.boost": "일시적으로 주변의 우호적인 유닛의 공격력과 이동력을 증폭시킵니다.",
 
   "buttons.ok": "확인",
   "buttons.exit": "나가기",
