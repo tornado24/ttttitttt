@@ -710,7 +710,7 @@
   "action.info.research": "{0}연구.",
   "action.info.explode": "폭발",
   "action.info.decompose": "분해",
-  "action.info.upgrade": "{0}로 업그레이드",
+  "action.info.upgrade": "{0}로/ 업그레이드",
 
   "actionbtn.upgrade": "{0}으로 레벨 업",
   "actionbtn.remove.building": "건물",
