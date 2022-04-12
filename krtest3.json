@@ -301,8 +301,8 @@
   "building.names.mine": "광산",
   "building.names.forge": "대장간",
   "building.names.sanctuary": "성소",
-  "building.names.enchantanimal": "동물 마법",
-  "building.names.enchantwhale": "고래 마법",
+  "building.names.enchantanimal": "마법에 걸린 동물",
+  "building.names.enchantwhale": "마법에 걸린 고래",
   "building.names.icebank": "얼음은행",
   "building.names.outpost": "전초기지",
   "building.names.icetemple": "얼음 사원",
@@ -710,6 +710,7 @@
   "action.info.research": "{0}연구.",
   "action.info.explode": "폭발",
   "action.info.decompose": "분해",
+  "action.info.upgrade": "{0}로 업그레이드",
 
   "actionbtn.upgrade": "{0}으로 레벨 업",
   "actionbtn.remove.building": "건물",
