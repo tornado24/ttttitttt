@@ -48,6 +48,7 @@
   "tribepicker.players": "{0}인전",
   "tribepicker.mapsize": "맵 크기 : {0} 칸",
   "tribepicker.gamemode": "게임 모드 : {0}",
+  "tribepicker.maptype": "맵 타입 : {0}",
 
   "gamesettings.title": "게임 설정",
   "gamesettings.yourname": "당신의 이름",
