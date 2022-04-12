@@ -1006,7 +1006,7 @@
   "gameitem.slow": "어서..",
   "gameitem.slow.info": "{0}은/는 움직일 수 있는 시간이 {1} 남았습니다 . {0}이/가 서두르라고 알림을 보낼까요?",
   "gameitem.slow.action": "알림 보내기",
-  "gameitem.timeleft": "천천히 하세요ㅎ",
+  "gameitem.timeleft": "순조롭습니다",
   "gameitem.timeleft.info": "{0}는 시간이 아직 {1}만큼 남아 있습니다 .",
   "gameitem.reload": "RELOAD",
   "gameitem.remind.max": "충분합니다",
