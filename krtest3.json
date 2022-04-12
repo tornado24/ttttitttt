@@ -913,7 +913,9 @@
   "onlineview.game.leavematchmaking": "떠나기",
   "onlineview.game.leavematchmaking.title": "떠나기",
   "onlineview.game.leavematchmaking.info": "정말 이 게임을 기다리는 것을 그만 두시겠습니까?",
-   "onlineview.game.resign.title": "기권",
+  "onlineview.waiting.server": "서버 연결 시도중...",
+  "onlineview.resigned.title": "{0} 기권",
+  "onlineview.resigned.info": "{0}이/가 {1} 게임을 떠났으므로 봇으로 교체되었습니다.",
 
   "firebaseservice.status.connecting": "폴리토피아 서버에 연결하는 중...",
   "firebaseservice.status.loading": "게임 데이터 불러오는 중...",
@@ -1110,4 +1112,7 @@
   "notifications.defaultheader": "주의하세요",
   "matchmakinggameinfo.waitingforplayers": "{0}명의 추가 플레이어를 기다리는 중",
   "matchmakinggameinfo.waited": "기다린지",  
+  "misc.error.title": "에러발생",
+  "misc.failedcommand": "전송에 실패했습니다",
+  
 }
