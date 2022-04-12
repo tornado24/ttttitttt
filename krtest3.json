@@ -786,7 +786,7 @@
   "gamestatus.ruled.bot": "{0}이/가 통치중",
   "gamestatus.unknown.tribe": "미지의 부족",
   "gamestatus.unknown.ruler": "미지의 통치자",
-  "gamestatus.score": "score: {0} points",
+  "gamestatus.score": "점수: {0}점점",
   "gamestatus.city": "{0} 도시",
   "gamestatus.cities": "{0} 도시",
   "gamestatus.destroyed": "멸망함",
