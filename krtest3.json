@@ -599,7 +599,7 @@
   "wcontroller.tribe.destroy2": "{0}이 {1}을/를 멸망시켰습니다!",
   "wcontroller.tribe.destroy.all": "당신은 모든 적 부족을 멸망시키고 온 세계를 당신의 권력 아래 통합했습니다!",
   "wcontroller.tribe.destroy.all.title": "지배!",
-  "wcontroller.tribe.level_1": "{0}",
+  "wcontroller.tribe.level_1": "3",
   "wcontroller.city.disconnect": "{0}과 {1}과의 연결이 해제되었습니다",
   "wcontroller.city.disconnect.title": "교역로 손실!",
   "wcontroller.turn.end": "턴을 마치는 중...",
