@@ -501,8 +501,8 @@
   "buttons.back": "뒤로",
 
   "gameinfo.id": "아이디: {0}",
-  "gameinfo.lastmove": "마지막 행동: {0} ago",
-  "gameinfo.updated": "업데이트: {0} ago",
+  "gameinfo.lastmove": "마지막 행동: {0} 전",
+  "gameinfo.updated": "업데이트: {0} 전",
   "gameinfo.turn": "턴: {0}",
   "gameinfo.move": "이동횟수: {0}",
   "gameinfo.gameversion": "게임 버전: {0}",
