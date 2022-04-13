@@ -427,7 +427,7 @@
   "actionbox.confirm.info": "정말 하시겠습니까?",
   "actionbox.confirm.button": "예",
   "actionbox.unit.Boosted": "강화됨",
-  "actionbox.unit.poisoned": "중독됨",
+  "actionbox.unit.Poisoned": "중독됨",
 
   "tooltip.tile.road": "도로를 건설하여 이 도시를 당신의 수도에 연결하세요.",
   "tooltip.tile.choose_unit": "생산할 유닛을 고르세요.",
