@@ -728,7 +728,7 @@
   "bottommenu.techtree": "기술",
 
   "endscreen.done": "마치기",
-  "endscreen.ruledby": "Ruled by {0}",
+  "endscreen.ruledby": "{0}의 제국",
   "endscreen.army&territory": "군대 & 영토",
   "endscreen.monuments&temples": "기념물 & 사원",
   "endscreen.cities": "도시",
@@ -755,7 +755,7 @@
   "endscreen.personal": "새로운 올타임 신기록!",
   "endscreen.personal.title": "Amazing!",
   "endscreen.showhiscore": "최고기록 보기",
-  "endscreen.winner": "{0} win!",
+  "endscreen.winner": "{0} 승리!",
   "endscreen.victory": "승리",
   "endscreen.gameover": "게임 오버",
 
