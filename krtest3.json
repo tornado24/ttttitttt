@@ -788,7 +788,7 @@
   "gamestatus.scores": "점수",
   "gamestatus.ruled": "{0}이/가 통치중",
   "gamestatus.ruled.you": "당신이 통치중",
-  "gamestatus.ruled.bot": "{0}이/가 통치중",
+  "gamestatus.ruled.bot": "이/가 통치중",
   "gamestatus.unknown.tribe": "미지의 부족",
   "gamestatus.unknown.ruler": "미지의 통치자",
   "gamestatus.score": "점수: {0}점점",
