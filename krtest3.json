@@ -162,6 +162,7 @@
   "world.turn.exit": "나가기",
   "world.turn.waiting": "{0}의 플레이를 기다리는 중...",
   "world.turn.waiting.unknown": "미지의 부족의 플레이를 기다리는 중...",
+  "world.turn.waiting.playing": "{0}의 플레이를 기다리는 중...",
   "world.turn.ready": "준비되면 저장을 누르세요",
   "world.turn.your": "당신의 차례",
   "world.turn.remaining": "{0}턴 남음",
