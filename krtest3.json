@@ -1010,7 +1010,7 @@
   "gameitem.timelimit": "시간 제한",
   "gameitem.timelimit.info": "움직일 수 있는 시간이 {0} 남았습니다, 그 후에는 게임에서 퇴장당할 수 있습니다.",
   "gameitem.skipturn": "이런!",
-  "gameitem.skipturn.info": "{0}의 차례를 넘기시겠습니까? 또는 게임에서 킥 해서 봇이 부족을 조종하게 할 수 있습니.",
+  "gameitem.skipturn.info": "{0}의 차례를 넘기시겠습니까? 또는 게임에서 킥 해서 봇이 부족을 조종하게 할 수 있습니다.",
   "gameitem.kick.action": "킥",
   "gameitem.skipturn.action": "턴 넘기기",
   "gameitem.slow": "어서..",
