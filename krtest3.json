@@ -142,9 +142,9 @@
   
   "tutorial.task.harvestfruit": "과일을 수확해서 당신의 도시를 레벨 업시키세요.",
   "tutorial.task.trainunit": "전사를 훈련시키면 저 마을을 점령할 수 있습니다.",
-  "tutorial.task.endturn": "좋은 출발입니다! 턴을 마쳐서 당신의 유닛에게 에너지를 주세요.",
+  "tutorial.task.endTurn": "좋은 출발입니다! 턴을 마쳐서 당신의 유닛에게 에너지를 주세요.",
   "tutorial.task.capturevillage": "도시로 유닛을 이동시켜 점령하세요.",
-  "tutorial.task.unlocktech": "야생동물을 사냥하여 당신의 도시를 더욱 성장시킬 수 있습니다. 사냥법을 연구합시다!",
+  "tutorial.task.unlockTech": "야생동물을 사냥하여 당신의 도시를 더욱 성장시킬 수 있습니다. 사냥법을 연구합시다!",
   "tutorial.completed.title": "훈련 종료!",
   "tutorial.completed.description": "당신은 이제 폴리토피아를 플레이 하기 위한 기본적인 기술을 마스터했습니다. 하지만 발견할 수 있는 것이 많이 남아 있습니다!  시간이 종료 되기 전에 최대한 많은 점수를 얻어서 게임을 마치세요.",
   
