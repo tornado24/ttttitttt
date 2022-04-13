@@ -255,7 +255,7 @@
   "building.produce.reward.named": "{1}를 위해 {0}를 생산합니다.",
   "building.produce.reward": "{0}를 생산합니다",
   "building.reward.tech": "{0}을 제공합니다",
-  "building.reward.instant": "즉시 {0}를 제공합니다",
+  "building.reward.instant": "즉시 {0}을/를 제공합니다",
   "building.transform": "{0}를 {1}으로 변환시킵니다",
   "building.transform2": "{0}을 {2}을 가진 {1}로 변환시킵니다.",
   "building.resource": "선택된 칸에 {0}을 생성합니다.",
