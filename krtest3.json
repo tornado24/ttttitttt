@@ -508,7 +508,7 @@
   "gameinfo.gameversion": "게임 버전: {0}",
   "gameinfo.gameover": "게임이 끝났습니다. 열어서 최종 결과를 확인하세요",
   "gameinfo.yourturn": "{0}하세요 당신의 턴입니다",
-  "gameinfo.opponentsturn": "{0}이 {1} 하기를 기다리는 중입니다",
+  "gameinfo.opponentsturn": "{0}이/ {1} 하기를 기다리는 중입니다",
   "gameinfo.start": "게임 시작",
   "gameinfo.picktribe": "부족 선택",
   "gameinfo.play": "진행",
