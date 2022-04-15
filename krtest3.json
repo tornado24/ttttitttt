@@ -1115,7 +1115,7 @@
   "updateavatar.title": "아바타 업데이트",
   "updateavatar.description": "아바타를 눌러 새 창조물을 만드세요.",
   "updateavatar.save": "저장",
-  "notifications.defaultheader": "주의하세요",
+  "notifications.defaultheader": "알립니다",
   "matchmakinggameinfo.waitingforplayers": "{0}명의 추가 플레이어를 기다리는 중",
   "matchmakinggameinfo.waited": "기다린지",  
   "misc.error.title": "에러발생",
