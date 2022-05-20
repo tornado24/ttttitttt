@@ -499,6 +499,7 @@
   "buttons.exit": "나가기",
   "buttons.save": "저장",
   "buttons.back": "뒤로",
+  "buttons.reconnect": "재연결",
 
   "gameinfo.id": "아이디: {0}",
   "gameinfo.lastmove": "마지막 행동: {0} 전",
