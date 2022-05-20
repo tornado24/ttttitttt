@@ -411,7 +411,7 @@
   "actionbox.city": "The city of {0}",
   "actionbox.city.level": "{0}레벨",
   "actionbox.village": "마을",
-  "actionbox.unit.Frozen": "빙결된 {0}",
+  "actionbox.unit.Frozen": "빙결됨",
   "actionbox.unit.kills": "{0}/{1}킬",
   "actionbox.unit.veteran": "베테랑",
   "actionbox.unit.new": "새로운 {0} {1}훈련시키기",
