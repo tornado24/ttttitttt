@@ -40,10 +40,9 @@
   "actionbox.building.level": "{0}/{1}레벨",
   "actionbox.building.requiredtech": "이것을 하기 위해 {0}을/를 연구해야 합니다. '기술' 버튼을 클릭하세요.",
   "actionbox.building.techtree": "기술",
-  "actionbox.city": "The city of {0}",
+  "actionbox.city": "도시",
   "actionbox.cantperformaction.description": "지금은 이 작업을 실행할 수 없습니다..",
-  "actionbox.city.level": "{0}레벨",								
-									
+  "actionbox.city.level": "{0}레벨",																
   "actionbox.confirm": "{0} 확인",
   "actionbox.confirm.button": "예",
   "actionbox.confirm.info": "정말 하시겠습니까?",
