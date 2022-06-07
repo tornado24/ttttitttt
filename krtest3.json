@@ -1,5 +1,5 @@
- {
-  "action.info.activate": "모노리스 활성화",
+  {
+ "action.info.activate": "모노리스 활성화",
   "action.info.attack": "이 유닛으로 공격해보세요. 공격하기 위해서는 이 유닛을 클릭하고 빨간 타겟을 클릭하세요.",
   "action.info.boost": "강화",
   "action.info.breakice": "얼음 파괴",
@@ -584,7 +584,7 @@
   "highscore.title": "최고득점",
   "highscore.today": "오늘",
   "highscore.uploading": "최고 점수 업로드중...",
-  "highscore.uploading.failed": "최고 점수 업로드에 실패했습니다",
+  "highscore.uploading.failed": "최고 점수 업로드에 실패했습니다,
   "highscore.uploading.successful": "최고 점수 등록됨...",
   "highscore.uptodate": "모두 최신 상태입니다.",			
   
@@ -1430,5 +1430,5 @@
   "world.unit.movement": "이동 범위",
   "world.unit.range": "공격 범위",
   "world.unit.veteran": "이 유닛은 베테랑입니다",
-  "world.unit.veteran.progress": "승급까지 {0}/{1} ",  
+  "world.unit.veteran.progress": "승급까지 {0}/{1}"  
 }
