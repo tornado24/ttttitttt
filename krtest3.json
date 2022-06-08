@@ -481,7 +481,7 @@
   "gamesettings.createslot": "게임 생성중",
   "gamesettings.createslot.error": "게임 생성에 실패했습니다",
   "gamesettings.createslot.error.info": "인터넷 연결을 확인하고 다시 시도해주세요",
-  "gamesettings.creatingworld": "세계를 창조 중...",
+  "gamesettings.creatingworld": "세계를 창조하는 중...",
   "gamesettings.difficulty": "난이도",
   "gamesettings.difficulty.crazy": "매우어려움",
   "gamesettings.difficulty.easy": "쉬움",
